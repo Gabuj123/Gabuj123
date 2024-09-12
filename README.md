@@ -1,11 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Gabriele 👋
 
 
-- 🔭 I’m currently working on soos
-- 🌱 I’m currently learning ses
-- 👯 I’m looking to collaborate on sas
-- 🤔 I’m looking for help with sos
-- 💬 Ask me about sus
-- 📫 How to reach me: sis
-- 😄 Pronouns: sus
-- ⚡ Fun fact: sas
+- 🟩⬜🟥 I'm italian
+- 📚 I'm a student at ITIS E. Majorana of Grugliasco (psst, here's the website: https://itismajo.it/)
+- 😄 Pronouns: He/Him
